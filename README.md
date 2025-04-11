@@ -4,7 +4,7 @@
 
 **Week 1**
 
-From the outset, Mantha Intelligence Solutions clearly defined its strategic intent: developing AI agents to streamline and operate Enterprise Resource Planning (ERP) systems. To establish a robust foundational understanding, we initiated comprehensive research into Langraph technology, AI agent architectures, and their application in complex enterprise environments. During this initial phase, the team operated in a hybrid setting, balancing remote work with in-person meetings conducted in a dedicated meeting room at one of the founders' residences. There was significant uncertainty regarding long-term strategic positioning, which prompted early engagement with G2, a specialized SAP consulting firm. These preliminary discussions were aimed at securing early-stage funding and industry insights.
+From the outset, Mantha Inteligencia Artificial clearly defined its strategic intent: developing AI agents to streamline and operate Enterprise Resource Planning (ERP) systems. To establish a robust foundational understanding, we initiated comprehensive research into Langraph technology, AI agent architectures, and their application in complex enterprise environments. During this initial phase, the team operated in a hybrid setting, balancing remote work with in-person meetings conducted in a dedicated meeting room at one of the founders' residences. There was significant uncertainty regarding long-term strategic positioning, which prompted early engagement with G2, a specialized SAP consulting firm. These preliminary discussions were aimed at securing early-stage funding and industry insights.
 
 **Week 2**
 
