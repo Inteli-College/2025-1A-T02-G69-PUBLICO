@@ -4,17 +4,17 @@
 
 **Week 1**
 
-From the outset, Mantha Inteligencia Artificial clearly defined its strategic intent: developing AI agents to streamline and operate Enterprise Resource Planning (ERP) systems. To establish a robust foundational understanding, we initiated comprehensive research into Langraph technology, AI agent architectures, and their application in complex enterprise environments. During this initial phase, the team operated in a hybrid setting, balancing remote work with in-person meetings conducted in a dedicated meeting room at one of the founders' residences. There was significant uncertainty regarding long-term strategic positioning, which prompted early engagement with G2, a specialized SAP consulting firm. These preliminary discussions were aimed at securing early-stage funding and industry insights.
+From the outset, Mantha Inteligencia Artificial clearly defined its strategic intent: developing AI agents to streamline and operate Enterprise Resource Planning (ERP) systems. To establish a robust foundational understanding, we initiated comprehensive research into Langraph technology, AI agent architectures, and their application in complex enterprise environments. During this initial phase, the team operated in a hybrid setting, balancing remote work with in-person meetings conducted in a dedicated meeting room at one of the founders' residences. There was significant uncertainty regarding long-term strategic positioning, which prompted early engagement with a specialized SAP consulting firm. These preliminary discussions were aimed at securing early-stage funding and industry insights.
 
 **Week 2**
 
-Continuing our foundational activities, discussions with G2 evolved, initially envisioned as a strategic opportunity to gain capital and market positioning. However, as the week progressed, these interactions increasingly resembled a "carrot on a stick," with meaningful advancement proving elusive. The team used this period to deepen research efforts, laying critical groundwork for future sprints.
+Continuing our foundational activities, discussions with said consulting firm evolved, initially envisioned as a strategic opportunity to gain capital and market positioning. However, as the week advanced, these interactions gradually began to feel more and more out of reach with meaningful advancement proving elusive. The team used this period to deepen research efforts, laying critical groundwork for future sprints.
 
 ## **Sprint 2: Strategic Realignment and Validation**
 
 **Week 1**
 
-This phase began with intensive introspection and recalibration of our strategic approach, maintaining our hybrid work structure. The ongoing discussions with G2 continued without notable progress, gradually becoming more of a distraction. Concurrently, our deeper exploration into ERP systems uncovered the magnitude and complexity inherent to these environments, amplifying our awareness of future challenges. This realization led us to consider alternative strategies, including a pivot to consulting services as a temporary measure for capital accumulation and problem identification.
+This phase began with intensive introspection and recalibration of our strategic approach, maintaining our hybrid work structure. The ongoing discussions with the consulting firm continued without notable progress, gradually becoming more of a distraction. Concurrently, our deeper exploration into ERP systems uncovered the magnitude and complexity inherent to these environments, amplifying our awareness of future challenges. This realization led us to consider alternative strategies, including a pivot to consulting services as a temporary measure for capital accumulation and problem identification.
 
 **Week 2**
 
