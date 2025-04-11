@@ -50,3 +50,5 @@ With clarity on specific market-driven problems and applicable technological sol
 
 Facing tight deadlines, pragmatic simplifications became necessary; nonetheless, the resulting solution clearly demonstrated significant potential and immediate value. Acknowledging the strategic importance of our digital presence, we revamped and relaunched our landing page, aligning it closely with our enhanced product positioning. Looking forward, plans are firmly established for a more robust and refined version two (v2), slated for release within the next ten weeks, solidifying Mantha Intelligence Solutions' ongoing commitment to innovation and excellence in ERP automation.
 
+## Video demo do Agente V2
+https://www.youtube.com/watch?v=xr0ObKMVx4s
