@@ -1,89 +1,54 @@
+# **Public Report – Mantha Inteligencia Artificial**
 
-
-# **Public Report 2 – Mantha Inteligencia Artificial**
-
-## **Sprint 1: Strategic Foundations and First Steps**
+## **Sprint 1: Foundations and Initial Direction**
 
 **Week 1**
 
-We began our journey at Mantha by clearly defining our unique position in the market. Our team worked together to create a detailed **Value Proposition Canvas**, carefully highlighting how our AI-driven ERP automation sets us apart from existing solutions. Alongside this, we developed comprehensive **Customer Segmentation & Personas**, diving deep into user needs to ensure our product truly resonated with its intended audience.
-
-At the same time, part of the team attended the **Web Summit Rio**, where we engaged with industry leaders, potential partners, and early users. The event provided invaluable insights into our product-market fit, confirming some assumptions and challenging others—helping us refine our strategic direction early on.
+From the outset, Mantha Inteligencia Artificial clearly defined its strategic intent: developing AI agents to streamline and operate Enterprise Resource Planning (ERP) systems. To establish a robust foundational understanding, we initiated comprehensive research into Langraph technology, AI agent architectures, and their application in complex enterprise environments. During this initial phase, the team operated in a hybrid setting, balancing remote work with in-person meetings conducted in a dedicated meeting room at one of the founders' residences. There was significant uncertainty regarding long-term strategic positioning, which prompted early engagement with a specialized SAP consulting firm. These preliminary discussions were aimed at securing early-stage funding and industry insights.
 
 **Week 2**
 
-With our strategic direction clarified, we carried out an extensive **Competitive Analysis**, carefully mapping strengths and weaknesses of key players like UiPath, Automation Anywhere, SAP Joule, and emerging startups. Anticipating potential challenges, we crafted a detailed **Risk Matrix & Mitigation Plan**, ensuring we were ready to tackle any roadblocks proactively.
+Continuing our foundational activities, discussions with said consulting firm evolved, initially envisioned as a strategic opportunity to gain capital and market positioning. However, as the week advanced, these interactions gradually began to feel more and more out of reach with meaningful advancement proving elusive. The team used this period to deepen research efforts, laying critical groundwork for future sprints.
 
-On the development side, our team spent this week conducting a comprehensive review of all our documentation, from technical specifications to stakeholder expectations. This ensured everyone remained aligned and informed, forming a solid foundation for future sprints.
-
-
-
-## **Sprint 2: Market Validation and Early Refinement**
+## **Sprint 2: Strategic Realignment and Validation**
 
 **Week 1**
 
-Our team explored several **Monetization & Pricing Models**, thoroughly analyzing usage-based, tiered, and hybrid approaches. After careful consideration, we settled on a hybrid model—offering the flexibility users seek while maintaining stable revenue growth.
-
-Simultaneously, our developers refined our existing RPA scripts extensively, significantly improving reliability, speed, and accuracy. These improvements were crucial for our upcoming deployments, ensuring our automations performed consistently in real-world scenarios.
+This phase began with intensive introspection and recalibration of our strategic approach, maintaining our hybrid work structure. The ongoing discussions with the consulting firm continued without notable progress, gradually becoming more of a distraction. Concurrently, our deeper exploration into ERP systems uncovered the magnitude and complexity inherent to these environments, amplifying our awareness of future challenges. This realization led us to consider alternative strategies, including a pivot to consulting services as a temporary measure for capital accumulation and problem identification.
 
 **Week 2**
 
-We invested significant effort in producing an impactful **Commercial Demo Video** to visually communicate our value proposition. This professionally-crafted video clearly conveyed how Mantha simplifies ERP operations, becoming an essential tool for both investors and potential customers.
+After further market validation, we determined there was insufficient demand for the intermediary consulting route. Consequently, we decisively reverted to our original strategic focus on developing AI-driven ERP agents. Simultaneously, we launched strategic marketing initiatives, establishing our professional presence on LinkedIn, Google Workspace, and deploying our dedicated landing page, significantly enhancing Mantha's visibility and brand identity.
 
-In parallel, we launched our public website, ensuring it was professionally designed, SEO-friendly, and optimized for clarity. Additionally, we implemented structured logging, metrics collection, and alerting capabilities—boosting our observability and giving us greater control and visibility over our product's health and performance.
-
-
-
-## **Sprint 3: Deployment, Scalability, and Sales Preparation**
+## **Sprint 3: Office Establishment and Targeted Problem-Solving**
 
 **Week 1**
 
-Our attention shifted to carefully mapping our **Sales Funnel & Customer Journey**, assigning clear responsibilities to ensure smooth interactions from initial contact through to conversion and retention. Detailed **Financial Projections** followed, offering transparency into our expected revenues, operational costs, and break-even milestones.
-
-The highlight of this sprint was our first-ever assisted production deployment. Carefully controlled and high-visibility, this deployment provided us essential real-world insights into the strengths and weaknesses of our current setup, proving invaluable as we continued refining our product.
+In an effort to solidify our operational capabilities, Mantha Intelligence Solutions transitioned to a dedicated office environment, clearly marking our commitment to the project's success. Acknowledging previous missteps from premature technology-driven development without clearly defined problems, we prioritized structured qualitative research. This involved extensive interviews and discussions with ERP stakeholders, including company executives, IT management, and regular users.
 
 **Week 2**
 
-Recognizing the need for better maintainability, our developers undertook a significant backend restructuring. Breaking monolithic components into smaller, modular services significantly boosted our code clarity and ease of future enhancements. Concurrently, we provisioned our infrastructure on Google Cloud, establishing robust Kubernetes clusters and CI/CD pipelines designed to handle sustained future growth effortlessly.
+Through rigorous dialogue and analysis, we successfully identified consistent pain points prevalent across ERP environments. Additionally, we secured exclusive access to a fully functional, closed CIGAM ERP Sandbox, crucial for focused automation and workflow optimization. Concurrently, we maintained our marketing momentum by consistently disseminating weekly content on LinkedIn, effectively reinforcing our corporate brand.
 
-
-
-## **Sprint 4: Strengthening our Foundations and Responding to Feedback**
+## **Sprint 4: Development Initiation and Product Conceptualization**
 
 **Week 1**
 
-Leveraging the insights gained, we solidified our competitive position by clearly differentiating Mantha’s offering through targeted market analysis and refined messaging. This allowed us to confidently begin our sales outreach through strategic cold-email campaigns—generating initial traction and confirming our sales hypotheses.
-
-At the same time, our developers tackled the critical challenge of deploying a production-grade database. We carefully designed a new schema, migrated data without disruption, and meticulously tuned indexes to handle the anticipated load efficiently.
+Equipped with clearly defined targets and practical ERP resources, the team initiated development of version one (v1) of our AI-driven agent. This exploratory phase emphasized understanding the nuances of AI integration within ERP ecosystems. Regular engagement with ERP stakeholders continued, uncovering operational inefficiencies involving repetitive manual tasks that demanded cognitive input. Recognizing this opportunity, we swiftly began strategic planning for our targeted product solution.
 
 **Week 2**
 
-With our first live users providing critical feedback, we executed rapid post-deployment tuning. The team addressed several hot-fixes, resolved performance bottlenecks, and streamlined user experiences based on initial customer interactions, significantly boosting user satisfaction and operational stability.
+Intensified research refined our conceptual approach, further aligning our technological capabilities with identified market needs. However, due to the intensive focus on development and strategic tasks, our landing page did not receive sufficient attention, resulting in reduced effectiveness and diminished user engagement.
 
-
-
-## **Sprint 5: Achieving Operational Excellence and Market Readiness**
+## **Sprint 5: Product Development and Architectural Finalization**
 
 **Week 1**
 
-We ramped up our strategic marketing efforts, publishing consistent and engaging content, enhancing Mantha’s market visibility and reinforcing our industry presence. Concurrently, our development team implemented GIP-based single-sign-on (SSO), creating a seamless, secure, and user-friendly authentication experience across our services.
-
-To ensure our product’s accessibility matched its powerful functionality, we focused extensively on front-end polish. Our UI became more responsive, refined, and inclusive—delivering a user experience that truly felt world-class.
+With clarity on specific market-driven problems and applicable technological solutions, Mantha Intelligence Solutions focused diligently on developing our core product offering. Intensive internal deliberations on architecture and technical feasibility marked the beginning of iterative development cycles, characterized by careful assessment and strategic trade-offs. Given the emergent nature of the technology and the absence of established best practices, our cautious and methodical approach was paramount.
 
 **Week 2**
 
-Financial scenario planning took center stage, solidifying our readiness for investor discussions and upcoming client engagements. On the technical side, we finalized our backend APIs, carefully refactoring endpoints to align with our new authentication flow, and establishing stable, secure API contracts—preparing us fully for external integrations and future expansions.
+Facing tight deadlines, pragmatic simplifications became necessary; nonetheless, the resulting solution clearly demonstrated significant potential and immediate value. Acknowledging the strategic importance of our digital presence, we revamped and relaunched our landing page, aligning it closely with our enhanced product positioning. Looking forward, plans are firmly established for a more robust and refined version two (v2), slated for release within the next ten weeks, solidifying Mantha Intelligence Solutions' ongoing commitment to innovation and excellence in ERP automation.
 
-
-
-## **Conclusion and Looking Forward**
-
-Reflecting on this series of intense, highly productive sprints, we're immensely proud of our team’s collective efforts. Together, we solidified our market position, built robust technical foundations, and ensured our product was not only functional but genuinely user-friendly and impactful.
-
-As we look forward, our mission remains clear: continue innovating relentlessly, build meaningful strategic partnerships, and maintain an unwavering commitment to customer success. We’re confident that Mantha Inteligencia Artificial is well-prepared to lead the charge in intelligent ERP automation.
-
-
-
-## **Video Demo of Agent V2**
-
-
+## Video demo do Agente V1
+https://www.youtube.com/watch?v=xr0ObKMVx4s
