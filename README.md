@@ -109,4 +109,4 @@ The final sprint concluded with **Backend API finalization**, meticulously refac
 
 ## **Video Demo of Agent V2**
 
-[Watch Demo Here](\GitHub\2025-1A-T02-G69-PUBLICO\Demo_V2.mp4)
+[Watch Demo Here](https://github.com/Inteli-College/2025-1A-T02-G69-PUBLICO/blob/main/Demo_V2.mp4)
