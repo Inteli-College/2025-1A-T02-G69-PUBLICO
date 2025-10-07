@@ -23,7 +23,9 @@
 **Week 2** — We consolidated the **ROI playbook** (baseline vs observed, savings calculation, and scaling ranges) and revenue tables by volume for monitoring — the basis for proposals and pilots.
 
 **Development Side**
+
 **Week 1** — We delivered the **Cost Manager** (LLM + VMs): token-based call logging (input/output/cached), VM costs (E2B), and consolidation by task/project/tenant.
+
 **Week 2** — We finalized the **Cost API** (`GET /companies/cost`) with company-level and run-level aggregations, ensuring adequate latency for consumption dashboards and internal billing audits.
 
 ## Sprint 3: Multi-Tenancy & First-Mile Experience
