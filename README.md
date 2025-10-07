@@ -89,4 +89,4 @@
 4. **Pilots with shared-savings contracts**, SLAs, and monthly reports with evidence (video + logs + metrics).
 
 **Video Demo of Agent V3**
-Available under NDA (includes live E2B session and monitoring dashboard).
+Available under NDA.
