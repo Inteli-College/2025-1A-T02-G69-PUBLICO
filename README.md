@@ -81,12 +81,6 @@
 * **Full Observability**: auditable logs, metrics, and events.
 * **Updated Sales Pitch** and go-to-market materials for prospecting.
 
-## Next Steps (V3 → V3.1)
-
-1. **Refinement of fiscal extraction** for heterogeneous NFS-e (image preprocessing + consistency validations).
-2. **Expansion of connectors** (ERP/TMS/WMS) and posting **safe-guards** with automatic reconciliation.
-3. **A/B testing of prompts and model routes** to reduce task cost while maintaining accuracy.
-4. **Pilots with shared-savings contracts**, SLAs, and monthly reports with evidence (video + logs + metrics).
 
 **Video Demo of Agent V3**
 Available under NDA.
